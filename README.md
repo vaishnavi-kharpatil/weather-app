@@ -44,7 +44,7 @@ http://localhost:5000
 
 ---
 
-# ✅ **How to Use the Application**
+## **How to Use the Application**
 
 ## ✅ **1. UI - Current Weather Lookup**
 
